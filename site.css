@@ -73,6 +73,7 @@ i {
 
 .card-price {
 	height: 290px;
+	margin-top: 20px;
 }
 
 .card-title {
@@ -89,6 +90,6 @@ i {
 }
 /* footer */ 
 
-footer {
-	margin-top: 40px;
+#sticky-footer {
+  flex-shrink: none;
 }
