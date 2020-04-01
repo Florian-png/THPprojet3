@@ -1,0 +1,94 @@
+* {
+	font-family: 'Baloo Thambi 2', cursive;
+}
+/* Nav */ 
+
+/* Jumbotron */
+.jumbotron {
+	background-image: url('images/produit2.jpg');
+	background-position: center;
+	background-size:cover;
+	color:#fff;
+	height: 500px;
+}
+
+.btn>a {
+	text-decoration: none;
+	color:#fff;
+}
+
+.btn>a:hover {
+	text-decoration: none;
+	color:#fff;
+}
+
+.text-sous {
+	font-size: 25px;
+}
+
+.ecart {
+	padding-top:10px;
+}
+
+.jumbotron>button{
+	margin-top:20px;
+}
+
+/* Mise en place de: The surfing project en 3 points */
+
+.projet-title {
+	font-size: 55px;
+	margin-top: 70px;
+}
+
+.bloc {
+	margin-top: 40px;
+}
+
+i {
+	font-size:90px;
+}
+
+
+/* 2 Témoignagnes */
+
+
+.blockquote {
+	color: #444;
+	font-size:0.9em;
+}
+
+.fin_card {
+	margin-top:30px;
+}
+
+.surf{
+	width: 70px;	
+	height: 410px;
+}
+
+
+
+/* price */ 
+
+.card-price {
+	height: 290px;
+}
+
+.card-title {
+	font-size:2em;
+}
+
+.moyen {
+	font-size:20px;
+}
+
+.btn-footer{
+	margin-top: 15px;
+	width: 90%;
+}
+/* footer */ 
+
+footer {
+	margin-top: 40px;
+}
